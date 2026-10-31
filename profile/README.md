@@ -5,12 +5,12 @@ built and maintained in spare time.
 
 ### Apps
 
-- **[Longhand](https://github.com/twistymaze/longhand)**: note-taking app for meetings and
-  conversations. You type short notes, it records and transcribes the audio on your computer,
-  and then turns your notes into a full summary. Live at [longhand.md](https://longhand.md).
 - **[TrendWeight](https://github.com/twistymaze/trendweight)**: tracks weight trends,
   smoothing daily fluctuations so changes over time are easier to see.
   Live at [trendweight.com](https://trendweight.com).
+- **[Longhand](https://github.com/twistymaze/longhand)**: note-taking app for meetings and
+  conversations. You type short notes, it records and transcribes the audio on your computer,
+  and then turns your notes into a full summary. Live at [longhand.md](https://longhand.md).
 - **[games.ewal.net](https://github.com/twistymaze/games.ewal.net)**: my BoardGameGeek
   collection and play statistics. Live at [games.ewal.net](https://games.ewal.net).
 
